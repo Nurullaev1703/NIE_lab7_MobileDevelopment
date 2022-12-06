@@ -1,12 +1,7 @@
-# TSN_DEMO_07_JSON_MICRO
-Пример работы с JSON
+# NIE_Lab7_MobileDevelopment
+#Practical work №7 of Mobile Development
 
-![Screenshot](screenshot1.png)
+![Screenshot](Screenshot_1.png)
 
-![Screenshot](json1.jpg)
+![Screenshot](Screenshot_2.png)
 
-![Screenshot](json2.jpg)
-
-![Screenshot](json3.jpg)
-
-![Screenshot](json4.jpg)
